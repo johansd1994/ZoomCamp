@@ -3,8 +3,10 @@ this repository will be based on the ZoomCamp crash course by Data Talks, link t
 
 # Module 1: Containerization and Infrastructure as Code
 
-* Using GCP and Terraform
-* Using Docker with PostgreSQL
+* Introduction to GCP
+* Docker and docker-compose
+* Running Postgres locally with Docker
+* Setting up infrastructure on GCP with Terraform
 
 # Module 2 : Workflow Orchestration
 
@@ -13,5 +15,7 @@ this repository will be based on the ZoomCamp crash course by Data Talks, link t
 
 # Module 3 : Data Warehouse
 
-* Data Warehousing on BigQuery
-* Partitioning and Clustering on BQ
+* Data Warehouse
+* BigQuery
+* Partitioning and clustering
+* BigQuery best practices
