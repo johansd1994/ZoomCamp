@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: staging
+    database: encoded-ensign-412700
+    schema: ny_taxi
+
+
+    tables: 
+      - name: green_taxi_data_2022
+      - name: external_green_taxi_2022
